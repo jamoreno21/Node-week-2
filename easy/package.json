@@ -1,0 +1,21 @@
+{
+  "name": "@jatmoreno/easy",
+  "version": "1.0.3",
+  "description": "easy challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "John Moreno",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamoreno21/test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jamoreno21/test/issues"
+  },
+  "homepage": "https://github.com/jamoreno21/test#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
